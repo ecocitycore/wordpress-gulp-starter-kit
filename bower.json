@@ -1,11 +1,11 @@
 {
   "name": "wordpress-gulp-starter-kit",
-  "homepage": "https://github.com/synapticism/wordpress-gulp-starter-kit",
+  "homepage": "https://github.com/ecocitycore/wordpress-gulp-starter-kit",
   "authors": [
     {
-      "name": "Alexander Synaptic",
-      "email": "alexander@synapticism.com",
-      "homepage": "http://synapticism.com"
+      "name": "Greg Willson",
+      "email": "greg@ecocity.com",
+      "homepage": "http://ecocity.com"
     }
   ],
   "keywords": [
