@@ -1,6 +1,6 @@
 {
-  "name": "synapticism/wordpress-gulp-bower-sass",
-  "description": "A WordPress/Gulp/Bower/Sass starter kit",
+  "name": "ecocitycore/wordpress-gulp-bower-sass",
+  "description": "Ecocity WordPress/Gulp/Bower/Sass starter kit",
   "keywords": [
     "wordpress",
     "wordpress-theme",
@@ -13,13 +13,13 @@
     "browsersync",
     "livereload"
   ],
-  "homepage": "https://github.com/synapticism/wordpress-gulp-bower-sass",
+  "homepage": "https://github.com/ecocitycore/wordpress-gulp-bower-sass",
   "license": "GPL-3.0",
   "authors": [
     {
-      "name": "Alexander Synaptic",
-      "email": "alexander@synapticism.com",
-      "homepage": "http://alexandersynaptic.com"
+      "name": "Greg Willson",
+      "email": "greg@biomassiv.es",
+      "homepage": "http://biomassiv.es"
     }
   ],
   "type": "library"
