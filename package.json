@@ -1,11 +1,11 @@
 {
   "name": "wordpress-gulp-starter-kit",
   "version": "0.1.0",
-  "description": "A starter kit for developing WordPress themes with Gulp",
-  "homepage": "https://github.com/synapticism/wordpress-gulp-starter-kit",
+  "description": "ecocitycore starter kit for developing WordPress themes with Gulp",
+  "homepage": "https://github.com/ecocitycore/wordpress-gulp-starter-kit",
   "repository": {
     "type": "git",
-    "url": "https://github.com/synapticism/wordpress-gulp-starter-kit.git"
+    "url": "https://github.com/ecocitycore/wordpress-gulp-starter-kit.git"
   },
   "keywords": [
     "wordpress",
@@ -23,7 +23,7 @@
   "scripts": {
     "postinstall": "bower install"
   },
-  "author": "Alexander Synaptic <alexander@synapticism.com>",
+  "author": "Gregory Willson <ops@ecocity.com>",
   "license": "GPL-3.0",
   "main": "gulpfile.js",
   "private": true,
